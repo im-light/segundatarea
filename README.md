@@ -5,6 +5,7 @@
 *resumen*
 
 
+
 Las clases (class) y estructuras (struct) son dos de las construcciones básicas de .NET Cada una de ellas es una estructura de datos que encapsula un conjunto de datos y comportamientos que forman un conjunto como una unidad lógica. Los datos y comportamientos son los miembros de la clase o estructura, e incluyen sus métodos, propiedades y eventos, entre otros elementos.
 
 Una declaración de clase o estructura es como un plano que se utiliza para crear instancias u objetos en tiempo de ejecución. 
