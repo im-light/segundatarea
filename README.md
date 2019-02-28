@@ -61,7 +61,7 @@ out especifica que este parámetro se pasa por referencia y se escribe mediante 
 
 ref especifica que este parámetro se pasa por referencia y puede ser leído o escrito por el método llamado.
 
-
+___
 ###  2.5 Constructores y destructores: declaración, uso y aplicaciones.
 
 
@@ -69,7 +69,7 @@ Los constructores son métodos de clase que se ejecutan cuando se crea un objeto
 estos tienen el mismo nombre que la clase.
 A los constructores que no toman nigun parametro se les denomina constructor predeterminado debido a que no tienen ningun argumento para new.
 
-
+___
 ###  2.7 Sobrecarga de operadores: Concepto y utilidad, operadores unarios y binarios.
 
 
@@ -96,7 +96,7 @@ Implementa una clase llamada Dado, la cual es una abstracción de los dados de a
 
 
 ```c#
-    using System;
+using System;
 
 namespace Tarea_2
 {
